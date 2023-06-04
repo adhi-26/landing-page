@@ -1,0 +1,30 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+div.navigation{
+    background-color: #1F2937 ;
+}
+ul{
+    display: flex;
+    gap: 10px;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0 200px;
+    align-items: baseline;
+}
+li.logo{
+    margin-right: auto;
+}
+
+li.logo a{   
+    
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+li a{
+    text-decoration: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+ 
